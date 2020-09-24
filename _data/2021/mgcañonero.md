@@ -5,3 +5,9 @@ about_me
 
 hugot_lines/other_stuffs
 > "Stay at home lang tayo sa bahay mga kaibigan" - ako na me
+
+git add .
+
+git commit -m "haha"
+
+git push origin master
