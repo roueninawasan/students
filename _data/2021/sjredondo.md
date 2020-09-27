@@ -1,5 +1,5 @@
 :notes: I've got :fire: for a :heart:
-I'm not :fearful: of the :black_large_small_square:
+I'm not :fearful: of the :black_large_square:
 You've :x: seen it look so easy :notes:
 ***
 **about_me**
